@@ -1,4 +1,4 @@
-from .rem import Rem
+from .pokedex import Pokedex
 
 def setup(bot):
     bot.add_cog(Pokedex(bot))
